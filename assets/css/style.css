@@ -17,6 +17,12 @@ body {
     text-align: center;
 }
 
+.workingDatesTitle {
+    color: rgb(112, 20, 20);
+    font-size: 700;
+    text-align: center;
+}
+
 .workingDates {
     color: rgb(0, 29, 107);
 

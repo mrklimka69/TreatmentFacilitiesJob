@@ -2,7 +2,8 @@ const todayDate = new Date();
 // const todayDate = "17.07.2024";
 document.getElementById('todayDate').innerHTML = "Сегодня - " + getHumanDate(todayDate);
 
-const guaranteedWorkingDay = new Date(1720644657461);
+const guaranteedWorkingDay = new Date(818027920000);
+// console.log(guaranteedWorkingDay);
 const dayInSeconds = 345600;
 
 // console.log(getWorkDays());
